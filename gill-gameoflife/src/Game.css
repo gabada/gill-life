@@ -9,3 +9,8 @@
 h1 {
   color: white;
 }
+
+.Cell {
+  background: #ccc;
+  position: absolute;
+}
